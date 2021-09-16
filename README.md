@@ -7,7 +7,9 @@
 <img src="https://github.com/yurri-yeskov/yurri-yeskov/blob/main/header.png?raw=true" align="left" style="width: 100%" />  
   
 
-
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=yurri-yeskov.yurri-yeskov" />
+<img align="right" src="https://img.shields.io/github/followers/yurri-yeskov?label=Follow&style=social" />
+<h1 align="center"></h1>
   
 
 <br/>  
@@ -47,18 +49,7 @@
 
 
 ## Github Stats  
-<h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=yurri-yeskov&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurri-yeskov&layout=compact&theme=merko&count_private=true" />
 
 <br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
