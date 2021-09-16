@@ -7,10 +7,7 @@
 <img src="https://github.com/yurri-yeskov/yurri-yeskov/blob/main/header.png?raw=true" align="left" style="width: 100%" />  
   
 
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=bstar1227&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstar1227&layout=compact&theme=merko&count_private=true" />
-<img height="150px" />
+
   
 
 <br/>  
@@ -50,15 +47,9 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yurri-yeskov&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurri-yeskov&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=yurri-yeskov&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurri-yeskov&layout=compact&theme=merko&count_private=true" />
 
 <br/>  
 
