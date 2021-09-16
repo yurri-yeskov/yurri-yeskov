@@ -7,7 +7,10 @@
 <img src="https://github.com/yurri-yeskov/yurri-yeskov/blob/main/header.png?raw=true" align="left" style="width: 100%" />  
   
 
-![Profile views counter](https://komarev.com/ghpvc/?username=yurri-yeskov&&style=flat-square)  
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=bstar1227&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstar1227&layout=compact&theme=merko&count_private=true" />
+<img height="150px" />
   
 
 <br/>  
