@@ -6,10 +6,12 @@
 
 <img src="https://github.com/yurri-yeskov/yurri-yeskov/blob/main/header.png?raw=true" align="left" style="width: 100%" />  
   
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&color=C1F7C8&center=true&width=440&height=100&lines=%F0%9F%8C%B1+-+6%2B+years+of+experience;%F0%9F%8C%B1+-+full-stack+web+developer;%F0%9F%8C%B1+-+enthusiastic+and+challenge-driven">
+</p>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=yurri-yeskov.yurri-yeskov" />
 <img align="right" src="https://img.shields.io/github/followers/yurri-yeskov?label=Follow&style=social" />
-<h1 align="center"></h1>
   
 
 <br/>  
