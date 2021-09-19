@@ -50,7 +50,7 @@
 
 
 ## Github Stats  
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=yuri-yeskov&show_icons=true&theme=gotham&count_private=true" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=yurri-yeskov&show_icons=true&theme=gotham&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurri-yeskov&layout=compact&theme=gotham&count_private=true" />
 
 <br/>  
