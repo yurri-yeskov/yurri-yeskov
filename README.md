@@ -53,6 +53,8 @@
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=yurri-yeskov&show_icons=true&theme=gotham&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurri-yeskov&layout=compact&theme=gotham&count_private=true" />
 <br/>  
+<br/>  
+<br/>  
 <div>
-  <img align="center" height="150px" src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula&hide-border=false" />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yurri-yeskov&theme=gotham&hide-border=false" />
 </div>
