@@ -55,6 +55,6 @@
 <br/>  
 <br/>  
 <br/>  
-<div>
+<div style="margin-top:10px">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yurri-yeskov&theme=gotham&hide-border=false" />
 </div>
