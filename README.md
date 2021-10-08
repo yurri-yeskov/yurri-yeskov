@@ -54,5 +54,5 @@
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurri-yeskov&layout=compact&theme=gotham&count_private=true" />
 <br/>  
 <div>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webpointdev&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </div>
