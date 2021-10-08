@@ -51,6 +51,6 @@
 
 ## Github Stats  
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=yurri-yeskov&show_icons=true&theme=gotham&count_private=true" />
-<img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=yurri-yeskov&theme=react&border=61dafb&hide_border=true" alt="Yurii Yeskov" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurri-yeskov&layout=compact&theme=gotham&count_private=true" />
 <br/>  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yurri-yeskov&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
