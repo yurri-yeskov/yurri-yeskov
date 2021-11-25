@@ -51,9 +51,9 @@
 
 ## Github Stats  
 <div align="center">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=yurri-yeskov&show_icons=true&theme=gotham&count_private=true" />
-  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurri-yeskov&layout=compact&theme=gotham&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=yurri-yeskov&show_icons=true&theme=gotham&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurri-yeskov&layout=compact&theme=gotham&count_private=true" />
 </div>
 <div align="center">
-  <img style="margin: 15px" align="center" src="https://activity-graph.herokuapp.com/graph?username=yurri-yeskov&theme=gotham" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=yurri-yeskov&theme=gotham" />
 </div>
