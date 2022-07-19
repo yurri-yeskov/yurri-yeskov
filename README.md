@@ -57,4 +57,3 @@
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=yurri-yeskov&theme=gotham" />
 </div>
-.
